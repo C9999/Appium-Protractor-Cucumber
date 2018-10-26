@@ -1,0 +1,19 @@
+{
+  "name": "poc-appium-protractor",
+  "version": "1.0.0",
+  "description": "Poc de automação com Protractor e usando Appium como servidor",
+  "main": "adb.protractor.conf.js",
+  "dependencies": {
+    "chromedriver": "^2.40.0"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "chai-as-promised": "^6.0.0",
+    "jasmine-spec-reporter": "^3.2.0",
+    "mocha": "^3.2.0",
+    "protractor": "^4.0.3",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  },
+  "author": "Carlos Araújo",
+  "license": "ISC"
+}
